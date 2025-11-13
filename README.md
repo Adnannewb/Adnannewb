@@ -17,8 +17,15 @@
 
 
 
-### 🧩 Projects (coming soon)
-- 🔹 **Portfolio Website** — Built with HTML, CSS, JS  
+### 🧩 Projects :
+- 🔹 **Portfolio Website** — Built with HTML, CSS, JS
+- 🔹 **Online Tourguide** - Built with HTML, CSS, JS ,Node js, Mongodb atlas.
+- 🔹**Some C# desktop form projects with the help of Chatgpt.
+      -Project Management System.
+      -Cafe Management System.
+      -Payroll Management System.
+      -Dining Management System.
+  
 
 
 ### 📫 Connect with me:
