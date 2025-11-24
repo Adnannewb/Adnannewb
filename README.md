@@ -18,7 +18,7 @@
 
 
 ### 🧩 Projects :
-- 🔹 **Portfolio Website** — Built with HTML, CSS, JS
+- 🔹 **Portfolio Website** — Built with HTML, CSS, JS(Working on it)
 - 🔹 **Online Tourguide** - Built with HTML, CSS, JS ,Node js, Mongodb atlas.
 - 🔹**Some C# desktop form projects with the help of Chatgpt.
       -Project Management System.
