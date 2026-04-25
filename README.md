@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Md Adnan Rahman  
 
-🎓 **3rd-year CSE student** passionate about learning and building projects.  
+🎓 **4th-year CSE student** passionate about learning and building projects.  
 💻 Currently exploring **Python**, **Django**, and **Web Development**.  
 🌱 Learning **Data Structures & Algorithms** to strengthen problem-solving.  
 🚀 On a mission to become a **Full-Stack Developer**.  
