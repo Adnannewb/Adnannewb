@@ -31,7 +31,7 @@
 ### 📫 Connect with me:
  
 📧 rahadnan6@gmail.com  
-📧 https://www.facebook.com/Rahadnan7
+📧 https://www.linkedin.com/in/adnan-rahman-dev/
 
 
 ⭐ *“Code, Learn, and Grow every day!”*
