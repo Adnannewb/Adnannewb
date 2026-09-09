@@ -2,7 +2,7 @@
 
 <!-- Typing Animation - shortened to fit properly -->
 <a href="https://github.com/Adnannewb">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4A9EF7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there%2C+I'm+Adnan+Rahman+%F0%9F%91%8B;Full+Stack+Engineer+%7C+Python+%2F+Django+%2F+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4A9EF7&center=true&vCenter=true&multiline=true&width=650&height=120&lines=Hi+there%2C+I'm+Adnan+Rahman+%F0%9F%91%8B;Full+Stack+Engineer+%7C+Python+%2F+Django+%2F+React" alt="Typing SVG" />
 </a>
 
 <br/>
