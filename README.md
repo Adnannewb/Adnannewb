@@ -246,6 +246,8 @@ class AdnanRahman:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/adnan-rahman-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=F0F4FF)](https://github.com/Adnannewb)
 [![Email](https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rahadnan6@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=vercel&logoColor=F0F4FF)](https://adnan-rahman-dev.vercel.app/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0B1120?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/rahadnan6)
 
 </div>
 
