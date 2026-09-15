@@ -2,13 +2,13 @@
 
 <!-- Typing Animation - shortened to fit properly -->
 <a href="https://github.com/Adnannewb">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4A9EF7&center=true&vCenter=true&multiline=true&width=650&height=120&lines=Hi+there%2C+I'm+Adnan+Rahman+%F0%9F%91%8B;Full+Stack+Engineer+%7C+Python+%2F+Django+%2F+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4A9EF7&center=true&vCenter=true&multiline=true&width=650&height=120&lines=Hi+there%2C+I'm+Adnan+Rahman+%F0%9F%91%8B;Full+Stack+Developer+%7C+Python+%2F+Django+%2F+React" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E4A8A,100:4A9EF7&height=120&section=header&text=Md.+Adnan+Rahman&fontSize=40&fontColor=F0F4FF&fontAlignY=65&animation=fadeIn&desc=Full+Stack+Engineer+%7C+Python+%2F+Django+%2F+React&descAlignY=85&descSize=15&descColor=7BAFD4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E4A8A,100:4A9EF7&height=120&section=header&text=Md.+Adnan+Rahman&fontSize=40&fontColor=F0F4FF&fontAlignY=65&animation=fadeIn&desc=Full+Stack+Developer+%7C+Python+%2F+Django+%2F+React&descAlignY=85&descSize=15&descColor=7BAFD4" width="100%"/>
 
 </div>
 
@@ -22,7 +22,7 @@
 class AdnanRahman:
     def __init__(self):
         self.name       = "Md. Adnan Rahman"
-        self.role       = "Full Stack Engineer"
+        self.role       = "Full Stack Developer"
         self.university = "Jashore University of Science and Technology (JUST)"
         self.degree     = "B.Sc. in Computer Science and Engineering"
         self.cgpa       = "3.50 / 4.00 (up to 6th semester)"
